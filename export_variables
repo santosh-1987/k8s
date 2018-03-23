@@ -1,0 +1,4 @@
+export NODE_SIZE=t2.small
+export MASTER_SIZE=t2.small
+export ZONES=us-east-1a
+export KOPS_STATE_STORE=s3://synedra-filess
